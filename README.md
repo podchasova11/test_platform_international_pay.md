@@ -1,4 +1,4 @@
-### test_platform_international_pay.md
+## test_platform_international_pay.md
 
 ## Как тестировать платформу для международных платежей
 
